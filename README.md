@@ -1,4 +1,6 @@
 # Sheeter
+![npm](https://img.shields.io/npm/v/sheeter-music)
+![GitHub](https://img.shields.io/github/license/dangreco/sheeter)
 
 Convert audio files to human-readable sheet music.
 
