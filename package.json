@@ -1,0 +1,19 @@
+{
+  "name": "sheeter",
+  "version": "1.0.0",
+  "description": "Make music sheets given song file",
+  "main": "index.js",
+  "author": "Dan Greco",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "babel-node --presets es2015 index.js"
+  },
+  "dependencies": {
+    "babel-cli": "^6.0.0",
+    "babel-preset-es2015": "^6.0.0",
+    "inquirer": "^7.1.0",
+    "inquirer-fuzzy-path": "^2.2.0",
+    "ora": "^4.0.3"
+  }
+}
