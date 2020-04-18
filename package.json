@@ -1,5 +1,5 @@
 {
-  "name": "sheeter",
+  "name": "sheeter-music",
   "version": "1.0.0",
   "description": "Make music sheets given song file",
   "main": "index.js",
